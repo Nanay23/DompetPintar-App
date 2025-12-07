@@ -7,9 +7,9 @@ Anggota Tim:
 - Naysyla Qurratu Aq'yuni Tanjung - 701230106 
  (Role: Desain ERD, Architecture Diagram, Class Diagram, Desain PPT, coding modul login, penyusunan product backlog, testing, deployment)
 - Sinta Aprita Sari - 701230307
- (Role: Backend, Membuat Desain UI, Penyusunan product backlog, coding modul beranda, testing, deployment)
+ (Role: Backend, Membuat Desain UI, Penyusunan product backlog, coding modul beranda, testing, Demo video aplikasi, deployment)
 - Susilawati - 701230103 
-(Role: Desain Activity Diagram, Class Diagram, Use Case Diagram, Penyusunan product backlog, testing, deployment)
+(Role: Desain Activity Diagram, Use Case Diagram, Penyusunan product backlog, testing, deployment)
 
 
 📖 Deskripsi Singkat Dompetku
